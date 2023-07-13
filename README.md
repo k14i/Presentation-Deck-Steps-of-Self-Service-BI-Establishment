@@ -1,2 +1,4 @@
-# Presentation-Deck-Steps-of-Self-Service-BI-Establishment
-セルフサービスBIの実現ステップ
+# セルフサービスBIの実現ステップ
+
+2021年9月の資料
+
